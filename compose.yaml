@@ -1,1 +1,14 @@
+services:
+  reverse-proxy:
 
+  orthanc:
+
+  monailabel:
+  
+volumes:
+
+configs:
+
+secrets:
+
+networks
